@@ -1,0 +1,122 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(n_1.jpg);
+}
+
+.Mypicture{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+
+
+.container{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.Myinfo {
+  background-color: aquamarine;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.Info {
+  font-weight: bold;
+  color: #333;
+}
+
+.infor {
+  color: #666;
+}
+
+.aboutmeTxt {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.aboutmeTxt:hover {
+  color: blue;
+}
+
+#demo {
+  margin-top: 20px;
+}
+
+#demo span {
+  display: block;
+  margin-bottom: 10px;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 5px 0;
+}
+
+.emphasis {
+  color: red;
+}
+
+.my-profile{
+    text-align: center;
+}
+.my-profile img{
+    width: 100px;
+    height: 1x;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    margin-bottom: 20px;
+}
+.friend{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.friends{
+    margin: 10px;
+    text-align: center;
+}
+.friend img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+.friend p{
+    margin-top: 5px;
+    font-size: 16px;
+    color: #262626;
+}
+p{
+    color: rgb(242, 250, 5);
+}
+.friend p{
+    color: rgb(177, 235, 3);
+}
+.navbar {
+    background-color: #48c8d6;
+}
+  .navbar-nav .nav-link {
+    color: #fa0fa4;
+}
+  .navbar-nav .nav-item.active .nav-link {
+    color: #ffcc00;
+}
+  .navbar .search {
+    border-radius: 0;
+}
+  .navbar .btn0 {
+    background-color: #0bccea; 
+    color: #a41a7b;
+    border-radius: 0;
+}
+p1{
+  color: #262626;
+}
+  
